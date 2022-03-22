@@ -1,0 +1,13 @@
+{
+  "name": "tmp.XznRs8rQkV",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.0",
+  "dependencies": {
+    "gatsby": "next",
+    "gatsby-parcel-config": "^0.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
